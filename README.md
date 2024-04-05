@@ -1,4 +1,7 @@
 # PlusNE(7.0+)
+支持微信密友<br>
+![43000ca1aefb243fc5e0db021f8ba138](https://github.com/Xposed-Modules-Repo/me.plusne/assets/55938271/9731ae1c-04bb-4096-b2ed-7c20ccdf4dde)
+![2ce6f265ec9cde767bbd9ea734a5df8f](https://github.com/Xposed-Modules-Repo/me.plusne/assets/55938271/b05e3df7-c420-4ed4-b644-b2352e63d228)
 
 
 现阶段支持 <br><br>
