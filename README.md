@@ -30,5 +30,5 @@
 3.拉到最下面点击PlusNE版本信息即可
 
 ### 交流
-QQ群: ([596565319](https://qm.qq.com/cgi-bin/qm/qr?k=g4XFTYY2NE5nZIcDX_oHos3jY-EIubUr&jump_from=webapi&authKey=/QsbJ7QCov/47mnfkn9p37BNBZpbEtJTEkG9LJVln4qrCHYqy4nKPHP3CXnzHBLD](https://qm.qq.com/cgi-bin/qm/qr?k=Tb9rytiP6fL_r2zspEXSQ0G-h99Wk3cz&jump_from=webapi&authKey=wgj8D5u9PYTo1+z/vRJwygD8NF02+Yt0ThVtj6CJBWwfM7BRGl5xjsYJyqiXZasJ))
+QQ群: [596565319](https://qm.qq.com/cgi-bin/qm/qr?k=g4XFTYY2NE5nZIcDX_oHos3jY-EIubUr&jump_from=webapi&authKey=/QsbJ7QCov/47mnfkn9p37BNBZpbEtJTEkG9LJVln4qrCHYqy4nKPHP3CXnzHBLD](https://qm.qq.com/cgi-bin/qm/qr?k=Tb9rytiP6fL_r2zspEXSQ0G-h99Wk3cz&jump_from=webapi&authKey=wgj8D5u9PYTo1+z/vRJwygD8NF02+Yt0ThVtj6CJBWwfM7BRGl5xjsYJyqiXZasJ))
 QQ群: [643354312](https://qm.qq.com/cgi-bin/qm/qr?k=gFJjbdjUQxC9rBGFdjZi7UKn9Jpyg0Rp&jump_from=webapi)
